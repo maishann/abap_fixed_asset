@@ -3,7 +3,7 @@
 *&---------------------------------------------------------------------*
 *& Date:   01.08.2024                                                  *
 *& Author: Hannes Maisch (HANNESM)                                     *
-*& Company: ponturo consulting AG                                      *
+*& Company:                                                            *
 *& Requested from:                                                     *
 *& Description: Copy asset master data per asset class from one company*
 *&              code to the other company code with the possibility to *
